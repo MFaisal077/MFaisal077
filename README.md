@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal portfolio website](https://m-faisal077-github-io.vercel.app/)
 
-- 🌱 I’m currently learning **HTML,CSS and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://m-faisal077-github-io.vercel.app/](https://m-faisal077-github-io.vercel.app/)
 
