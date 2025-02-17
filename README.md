@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaisal077" alt="mfaisal077" /></a> </p>
 
-- 🔭 I’m currently working on [Personal portfolio website](https://m-faisal077-github-io.vercel.app/)
+- 🔭 I’m currently working on [Expense Tracker Tool]([https://m-faisal077-github-io.vercel.app/](https://github.com/MFaisal077/Expense-Tracker))
 
 - 🌱 I’m currently learning **JavaScript**
 
