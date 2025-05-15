@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Expense Tracker Tool]([https://m-faisal077-github-io.vercel.app/](https://github.com/MFaisal077/Expense-Tracker))
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently upskilling myself
 
 - 👨‍💻 All of my projects are available at [https://m-faisal077-github-io.vercel.app/](https://m-faisal077-github-io.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript and Java**
+- 💬 Ask me about **HTML,CSS,JavaScript and Java,MYSQL**
 
 - 📫 How to reach me **contactmfaisal@gmail.com**
 
