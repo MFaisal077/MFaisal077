@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faisal</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Computer Science Undergraduate @ City, University of London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisal077&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisal077" /> </p>
 
@@ -11,11 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://m-faisal077-github-io.vercel.app/](https://m-faisal077-github-io.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript and Java,MYSQL**
+- 💬 Ask me about **Java, Python, SQL, and System Diagnostics**
 
 - 📫 How to reach me **contactmfaisal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p8bTWPZHTi-93lpE2Z8-sml2yZnrkww2/view?usp=sharing](https://drive.google.com/file/d/1p8bTWPZHTi-93lpE2Z8-sml2yZnrkww2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
