@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaisal077" alt="mfaisal077" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker Tool]([https://m-faisal077-github-io.vercel.app/](https://github.com/MFaisal077/Expense-Tracker))
+- 🔭 I’m currently working on [NHS Prescription Analysis]
 
 - 🌱 I’m currently upskilling myself
 
 - 👨‍💻 All of my projects are available at [https://m-faisal077-github-io.vercel.app/](https://m-faisal077-github-io.vercel.app/)
 
-- 💬 Ask me about **Java, Python, SQL, and System Diagnostics**
+- 💬 Ask me about **Power BI, Trends Analysis, SQL Analysis**
 
 - 📫 How to reach me **contactmfaisal@gmail.com**
 
