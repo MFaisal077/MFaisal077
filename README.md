@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faisal</h1>
-<h3 align="center">A Computer Science Undergraduate @ City, University of London</h3>
+<h3 align="center">CS Graduate | Data Analyst | Python · SQL · Power BI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisal077&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisal077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaisal077" alt="mfaisal077" /></a> </p>
 
-- 🔭 I’m currently working on [NHS Prescription Analysis]
+- 🔭 I’m currently working on [NHS Prescription Analysis using Excel]
 
 - 🌱 I’m currently upskilling myself
 
-- 👨‍💻 All of my projects are available at [https://m-faisal077-github-io.vercel.app/](https://m-faisal077-github-io.vercel.app/)
+- 👨‍💻 All of my projects are available at [Click Here](datascienceportfol.io/Faisal_data)
 
 - 💬 Ask me about **Power BI, Trends Analysis, SQL Analysis**
 
