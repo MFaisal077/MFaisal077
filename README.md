@@ -1,31 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mohammad Faisal</h1>
-<h3 align="center">CS Graduate | Data Analyst | Python · SQL · Power BI </h3>
+# Hi, I'm Mohammad Faisal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisal077&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisal077" /> </p>
+BSc Computer Science Graduate from City St George's, University of London.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaisal077" alt="mfaisal077" /></a> </p>
+Aspiring Data Analyst with hands-on experience in:
 
-- 🔭 I’m currently working on [NHS Prescription Analysis using Excel]
+* Python (Pandas, NumPy)
+* SQL (PostgreSQL, MySQL)
+* Power BI
+* Data Cleaning & ETL Pipelines
+* Exploratory Data Analysis
+* Dashboard Development
 
-- 🌱 I’m currently upskilling myself
+## What I enjoy working on
 
-- 👨‍💻 All of my projects are available at [Click Here](datascienceportfol.io/Faisal_data)
+* Building end-to-end data projects from raw data to insights
+* Designing interactive dashboards and reporting solutions
+* Investigating trends, anomalies, and performance drivers in large datasets
+* Using data to support better decision-making
 
-- 💬 Ask me about **Power BI, Trends Analysis, SQL Analysis**
+## Featured Projects
 
-- 📫 How to reach me **contactmfaisal@gmail.com**
+ **TfL Transport Infrastructure Data Platform**
 
+* Built an end-to-end ETL pipeline analysing 13 years of transport performance data.
+* Technologies: Python, PostgreSQL, SQL, Streamlit.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad faisal" height="30" width="40" /></a>
-</p>
+ **UK Job Density Analysis**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+* Analysed employment trends across UK regions and built an interactive Power BI dashboard.
+* Technologies: Python, SQL, PostgreSQL, Power BI.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisal077&show_icons=true&locale=en&layout=compact" alt="mfaisal077" /></p>
+ **Physics A-Level Take-Up Analysis**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaisal077&show_icons=true&locale=en" alt="mfaisal077" /></p>
+* Analysed Department for Education data and presented findings to senior stakeholders as part of the Institute of Physics interview exercise.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisal077&" alt="mfaisal077" /></p>
+## Currently Learning
+
+* Databricks
+* Advanced SQL optimisation
+* Data engineering concepts and cloud analytics
+
+## Connect With Me
+
+📧 Email: [contactmfaisal@gmail.com](mailto:contactmfaisal@gmail.com)
+
+💼 LinkedIn: (www.linkedin.com/in/mohammad-faisal-306362236)
+
+🌐 Portfolio:(datascienceportfol.io/Faisal_data)
